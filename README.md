@@ -14,7 +14,6 @@ Use `0.1.0` for RN >= `0.40.0`
 - Multiline TextInput
 - Load earlier messages
 - Avatar as initials
-- Touchable links using [react-native-parsed-text](https://github.com/taskrabbit/react-native-parsed-text)
 - Localized dates
 - Copy text messages to clipboard
 
